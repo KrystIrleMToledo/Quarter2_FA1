@@ -1,1 +1,2 @@
-# Quarter2_FA1
+- This is a formative assessment on module 6.2
+- The topic covered are attaching video and audio in a website.
